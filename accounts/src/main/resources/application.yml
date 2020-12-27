@@ -11,7 +11,7 @@ info:
 
 # HTTP Server
 server:
-  port: 2222   # HTTP (Tomcat) port
+  port: 4444   # HTTP (Tomcat) port
 
 # Discovery Server Access
 eureka:
